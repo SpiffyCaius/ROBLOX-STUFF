@@ -1,5 +1,6 @@
 {
-  "lol",
-  "testesttest",
-  "if you are receiving this using my channel on peponTV then it's working as expected."
+	"ticker": "* SPIFFINGTON NETWORK * ROBLOX Local News: ROBLOX has updated the website as of February 28th. These are minor changes. The buttons on the top bar for ROBUXs and Notifications are now rounded. | ROBLOX is deprecating the legacy CSG V1 System, this deprecation will come as of march 31st, the new V2 of the CSG system comes with color transfer of negated parts, smooth edges and performance improvements. You can leave feedback for the CSG system on https://devforum.roblox.com/t/deprecating-legacy-csg-system/ *SPIFFINGTON NETWORK* Bonus: Hello to our friends over at Pepon News! * SPIFFINGTON-NETWORK * THIS IS THE END OF THE TICKER, IF MORE IS ADDED, THE TICKER WILL UPDATE, IN THE MEANTIME THIS WILL REPEAT.",
+	"symbols": "▼ ▲",
+	"End": "* SPIFFINGTON-NETWORK * THIS IS THE END OF THE TICKER, IF MORE IS ADDED, THE TICKER WILL UPDATE, IN THE MEANTIME THIS WILL REPEAT.",
+	"Break": "* SPIFFINGTON-NETWORK *"
 }
