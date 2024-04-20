@@ -1,5 +1,5 @@
 {
   
-  "httpservice": "Sanity Check: If HTTP service loads this in for peposerver, then it's working properly.",
+  "httpservicesanitycheck": "Sanity Check: If HTTP service loads this in for peposerver, then it's working properly.",
   
 }
